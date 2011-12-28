@@ -1,0 +1,154 @@
+# depslib dependency file v1.0
+1261917614 source:g:\tpi\estructuras de datos tp final\lib\doublelinkedlists.c
+	"DoubleLinkedLists.h"
+
+1263311090 kedLists.h"
+
+1261916224 g:\tpi\estructuras de datos tp final\lib\doublelinkedlists.h
+	"Prelude.h"
+
+1264195142 "
+
+1261916622 g:\tpi\estructuras de datos tp final\lib\prelude.h
+	<stdio.h>
+	<malloc.h>
+
+1261916622 
+
+1261917658 source:g:\tpi\estructuras de datos tp final\simpleturingmachine\main.c
+	"..\lib\DoubleLinkedLists.h"
+
+1262529032 ubleLinkedLists.h"
+
+1262034597 source:/media/-----/TPI/Estructuras de datos TP Final/lib/DoubleLinkedLists.c
+	"DoubleLinkedLists.h"
+
+1261922414 /media/-----/TPI/Estructuras de datos TP Final/lib/DoubleLinkedLists.h
+	"Prelude.h"
+
+1262034538 /media/-----/TPI/Estructuras de datos TP Final/lib/Prelude.h
+	<stdio.h>
+	<malloc.h>
+
+1262024697 source:/media/-----/TPI/Estructuras de datos TP Final/SimpleTuringMachine/SimpleTuringMachine.c
+
+1262034520 source:/media/-----/TPI/Estructuras de datos TP Final/SimpleTuringMachine/main.c
+	"../lib/DoubleLinkedLists.h"
+
+1262528987 source:/home/nahuel47/BKP REN/TPI/Estructuras de datos TP Final/SimpleTuringMachine/SimpleTuringMachine.c
+	"SimpleTuringMachine.h"
+
+1264368238 ingMachine.h"
+
+1262529032 /home/nahuel47/BKP REN/TPI/Estructuras de datos TP Final/SimpleTuringMachine/SimpleTuringMachine.h
+	"../lib/Prelude.h"
+	"../lib/DoubleLinkedLists.h"
+
+1262035852 /home/nahuel47/BKP REN/TPI/Estructuras de datos TP Final/lib/Prelude.h
+	<stdio.h>
+	<malloc.h>
+
+1262035670 /home/nahuel47/BKP REN/TPI/Estructuras de datos TP Final/lib/DoubleLinkedLists.h
+	"Prelude.h"
+
+1262035878 source:/home/nahuel47/BKP REN/TPI/Estructuras de datos TP Final/lib/DoubleLinkedLists.c
+	"DoubleLinkedLists.h"
+
+1264105711 source:/home/nahuel47/TPI/Estructuras de Datos/Estructuras de datos TP Final/SimpleTuringMachine/SimpleTuringMachine.c
+	"SimpleTuringMachine.h"
+
+1264166131 /home/nahuel47/TPI/Estructuras de Datos/Estructuras de datos TP Final/SimpleTuringMachine/SimpleTuringMachine.h
+	"Prelude.h"
+
+1262035852 /home/nahuel47/TPI/Estructuras de Datos/Estructuras de datos TP Final/lib/Prelude.h
+	<stdio.h>
+	<malloc.h>
+
+1263311091 /home/nahuel47/TPI/Estructuras de Datos/Estructuras de datos TP Final/lib/DoubleLinkedLists.h
+	"Prelude.h"
+
+1263311090 source:/home/nahuel47/TPI/Estructuras de Datos/Estructuras de datos TP Final/lib/DoubleLinkedLists.c
+	"DoubleLinkedLists.h"
+
+1264167003 source:/home/nahuel47/TPI/Estructuras de Datos/Estructuras de datos TP Final/SimpleTuringMachine/main.c
+	"SimpleTuringMachine.h"
+
+1262035852 /home/nahuel47/TPI/Estructuras de Datos/Estructuras de datos TP Final/SimpleTuringMachine/Prelude.h
+	<stdio.h>
+	<malloc.h>
+
+1264427912 source:f:\estructuras de datos tp final\simpleturingmachine\universalturingmachine.c
+	"UniversalTuringMachine.h"
+
+1264513894 TuringMachine.h"
+
+1264195142 f:\estructuras de datos tp final\simpleturingmachine\simpleturingmachine.h
+	"Prelude.h"
+
+1262032252 f:\estructuras de datos tp final\simpleturingmachine\prelude.h
+	<stdio.h>
+	<malloc.h>
+
+1264517290 source:f:\estructuras de datos tp final\simpleturingmachine\simpleturingmachine.c
+	"SimpleTuringMachine.h"
+
+1264368238 f:\estructuras de datos tp final\simpleturingmachine\universalturingmachine.h
+	"SimpleTuringMachine.h"
+
+1264513894 source:f:\estructuras de datos tp final\simpleturingmachine\main.c
+	"UniversalTuringMachine.h"
+
+1266929401 source:/home/nahuel47/TPI/Estructuras de Datos/Estructuras de datos TP Final/SimpleTuringMachine/SimpleTuringMachine.c
+	"SimpleTuringMachine.h"
+
+1266929424 /home/nahuel47/TPI/Estructuras de Datos/Estructuras de datos TP Final/SimpleTuringMachine/SimpleTuringMachine.h
+	"Prelude.h"
+
+1262035852 /home/nahuel47/TPI/Estructuras de Datos/Estructuras de datos TP Final/SimpleTuringMachine/Prelude.h
+	<stdio.h>
+	<malloc.h>
+
+1266929400 source:/home/nahuel47/TPI/Estructuras de Datos/Estructuras de datos TP Final/SimpleTuringMachine/UniversalTuringMachine.c
+	"UniversalTuringMachine.h"
+
+1264815492 /home/nahuel47/TPI/Estructuras de Datos/Estructuras de datos TP Final/SimpleTuringMachine/UniversalTuringMachine.h
+	"SimpleTuringMachine.h"
+
+1266929314 source:/home/nahuel47/TPI/Estructuras de Datos/Estructuras de datos TP Final/SimpleTuringMachine/main.c
+	"UniversalTuringMachine.h"
+
+1266929646 source:/home/nahuel47/TPI/Estructuras de Datos/Estructuras de datos TP Final/Orga2TPFinal-NahuelGarbezza/SimpleTuringMachine.c
+	"SimpleTuringMachine.h"
+
+1266929424 /home/nahuel47/TPI/Estructuras de Datos/Estructuras de datos TP Final/Orga2TPFinal-NahuelGarbezza/SimpleTuringMachine.h
+	"Prelude.h"
+
+1262035852 /home/nahuel47/TPI/Estructuras de Datos/Estructuras de datos TP Final/Orga2TPFinal-NahuelGarbezza/Prelude.h
+	<stdio.h>
+	<malloc.h>
+
+1266929400 source:/home/nahuel47/TPI/Estructuras de Datos/Estructuras de datos TP Final/Orga2TPFinal-NahuelGarbezza/UniversalTuringMachine.c
+	"UniversalTuringMachine.h"
+
+1264815492 /home/nahuel47/TPI/Estructuras de Datos/Estructuras de datos TP Final/Orga2TPFinal-NahuelGarbezza/UniversalTuringMachine.h
+	"SimpleTuringMachine.h"
+
+1267711194 source:/home/nahuel47/TPI/Estructuras de Datos/Estructuras de datos TP Final/Orga2TPFinal-NahuelGarbezza/main.c
+	"UniversalTuringMachine.h"
+
+1266929400 source:/nahuel-datos/UNQ/TPI/Estructuras de Datos/Estructuras de datos TP Final/Orga2TPFinal-NahuelGarbezza/UniversalTuringMachine.c
+	"UniversalTuringMachine.h"
+
+1264815492 /nahuel-datos/UNQ/TPI/Estructuras de Datos/Estructuras de datos TP Final/Orga2TPFinal-NahuelGarbezza/UniversalTuringMachine.h
+	"SimpleTuringMachine.h"
+
+1293555321 /nahuel-datos/UNQ/TPI/Estructuras de Datos/Estructuras de datos TP Final/Orga2TPFinal-NahuelGarbezza/SimpleTuringMachine.h
+	"Prelude.h"
+
+1262035852 /nahuel-datos/UNQ/TPI/Estructuras de Datos/Estructuras de datos TP Final/Orga2TPFinal-NahuelGarbezza/Prelude.h
+	<stdio.h>
+	<malloc.h>
+
+1267711194 source:/nahuel-datos/UNQ/TPI/Estructuras de Datos/Estructuras de datos TP Final/Orga2TPFinal-NahuelGarbezza/main.c
+	"UniversalTuringMachine.h"
+
